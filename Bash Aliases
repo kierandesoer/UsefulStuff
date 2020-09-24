@@ -1,0 +1,15 @@
+# To create an alias in bash
+# in ~/.profile add
+# alias <name>="<command line instructions you want to perform>"
+
+alias gs="git status"
+alias gb="git branch"
+alias gc="git checkout"
+alias gcd="git checkout <name of development branch>"
+alias gcm="git commit -am"
+alias gfp="git fetch origin && git pull"
+alias gp="git pull"
+alias gpo="git pull origin"
+alias gpoh="git pull origin HEAD"
+alias ho="~\"
+alias c="clear"
